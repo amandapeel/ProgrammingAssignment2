@@ -31,7 +31,7 @@ cacheSolve <- function(x, ...) {
   m
 }
 
-##The following will run the program on a sample set
+##The following will run the program successfully on a sample set
 ##> a <- c(1,2,0)
 ##> b <- c(0,1,9)
 ##> c <- c(5,0,4)
